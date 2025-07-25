@@ -1,0 +1,40 @@
+============ Setting ============
+drifting: False
+guiding: True
+decoding type: Adapting
+training type: Penalty
+seed: 2023
+============ Result ============
+max f1-score: 0.9098655076267016
+max pairs f1-score: 0.8768729612013195
+repetition: 0.047914457018934625
+total process times: 110466.6897573471
+============================================
+============ Setting ============
+drifting: False
+guiding: True
+decoding type: Adapting
+training type: Penalty
+seed: 2023
+============ Result ============
+max f1-score: 0.9142343228910392
+max pairs f1-score: 0.8834561624113862
+repetition: 0.04126911231388843
+total process times: 220526.6356408596
+============================================
+============ Setting ============
+drifting: False
+guiding: True
+contrast: False
+decoding type: Top-NP
+training type: Penalty
+seed: 2023
+R: 32
+batchsize: 16
+lr: 0.001
+============ Result ============
+max f1-score: 0.9373994496382557
+max pairs f1-score: 0.9134003972809943
+repetition: 0.031197219033039927
+total process times: 20620.190137147903
+============================================

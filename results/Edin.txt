@@ -1,0 +1,52 @@
+============ Setting ============
+drifting: False
+guiding: True
+decoding type: Adapting
+training type: Penalty
+seed: 2023
+============ Result ============
+max f1-score: 0.8782957885087224
+max pairs f1-score: 0.8271864395681431
+repetition: 0.0783175508333237
+total process times: 274713.7250010967
+============================================
+============ Setting ============（只加了fus）
+drifting: False
+guiding: True
+decoding type: Adapting
+training type: Penalty
+seed: 2023
+============ Result ============
+max f1-score: 0.880742027863479
+max pairs f1-score: 0.8284877758063877
+repetition: 0.06558326881670731
+total process times: 245987.20610189438
+============================================(全加)
+============ Setting ============
+drifting: False
+guiding: True
+decoding type: Adapting
+training type: Penalty
+seed: 2023
+============ Result ============
+max f1-score: 0.8799790465405607
+max pairs f1-score: 0.8298546528830439
+repetition: 0.06472837537506307
+total process times: 230700.2737789154
+============================================
+============ Setting ============
+drifting: False
+guiding: False
+contrast: True
+decoding type: Top-NP
+training type: Penalty
+seed: 2023
+R: 32
+batchsize: 16
+lr: 0.001
+============ Result ============
+max f1-score: 0.8825565338972279
+max pairs f1-score: 0.8375618247857994
+repetition: 0.05624482422589678
+total process times: 95365.3524544239
+============================================
