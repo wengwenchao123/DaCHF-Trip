@@ -20,7 +20,7 @@ pytorch
 | :---------: | :-----------------------------------------------: |
 |    asset    |        Metadata and preprocessing process         |
 |   results   |       Storage related experimental results        |
-|     src     |            the source code of Hyper-Trip          |
+|     src     |            the source code of DaCHF-Trip          |
 |  README.md  |             This instruction document             |
 
 ## How to run this Program
