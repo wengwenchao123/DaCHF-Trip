@@ -1,8 +1,8 @@
-# Hyper-Trip
+#  DaCHF-Trip
 
 ## Brief Introduction
 
-This is a PyTorch implementation of **A Hypernetwork and Contrastive Learning Framework for Trip Recommendation**
+This is a PyTorch implementation of **Dual-aspect Contrastive Hyper Fusion Transformer for Trip Recommendation**
 
 ## Environmental Requirements
 
